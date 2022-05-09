@@ -1,5 +1,4 @@
-from tkinter import *
-import random
+from random import randint
 
 MAX_CASES=63
 
@@ -28,8 +27,8 @@ def initialize_game():
 
 
 def generate_dice():
-    dice1=random.randint(1,6)
-    dice2=random.randint(1,6)
+    dice1=randint(1,6)
+    dice2=randint(1,6)
     list_dice=[dice1,dice2,dice1+dice2]
     print(f"DICES: {list_dice}\n")
     return list_dice
