@@ -13,7 +13,7 @@ The game is developed using Python and incorporates various Python data structur
 - Special Cases: The game includes special cases such as 'Bridge', 'Prison', 'Hotel'... These cases trigger specific actions or restrictions on players' movement.
 - Win Condition: The game continues until one player reaches the final case, indicating the winner. The program then displays the winner's name.
 
-More rules can be found in this link: mastersofgames.com/rules/goose-game-rules.htm
+More rules can be found in this link: https://www.mastersofgames.com/rules/goose-game-rules.htm
 
 ## Getting Started
 To run the game on your local machine, follow these steps:
